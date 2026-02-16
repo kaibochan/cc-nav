@@ -1,4 +1,4 @@
-# nav-bot — Turtle Navigation Library
+# cc-nav
 
 **Overview**
 - **Purpose:** Autonomous 3D mapping and pathfinding for a ComputerCraft turtle using GPS and the turtle API.
